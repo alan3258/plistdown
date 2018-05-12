@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.133/netdisk.ipa</string>
+					<string>http://www.yizaitech.com:81/netdisk.ipa</string>
 				</dict>
 				<dict>
 			        <key>kind</key>  
@@ -19,7 +19,7 @@
 			        <key>needs-shine</key>
 			        <true/>
 			        <key>url</key>
-			        <string>http://192.168.1.133/logo.png</string> 
+			        <string>http://www.yizaitech.com:81/logo.png</string> 
 			    </dict>
 			</array>
 			<key>metadata</key>
