@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yizaitech.com:81/Payload.ipa</string>
+					<string>https://www.yizaitech.com/Payload.ipa</string>
 				</dict>
 				<dict>
 			        <key>kind</key>  
@@ -19,7 +19,7 @@
 			        <key>needs-shine</key>
 			        <true/>
 			        <key>url</key>
-			        <string>http://www.yizaitech.com:81/logo.png</string> 
+			        <string>https://www.yizaitech.com/logo.png</string> 
 			    </dict>
 			</array>
 			<key>metadata</key>
